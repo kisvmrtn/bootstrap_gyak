@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+body {
+    background: url(kepek/hatter.jpg);
+}
+main {
+    max-width: 1000px;
+    margin: auto;
+    background-color: white;
+}
